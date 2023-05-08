@@ -20,7 +20,7 @@ the future.
 ### Visit implementation [Fourier Descriptors](https://colab.research.google.com/drive/1-OzR4dc4RXJ0QxnIhnOeh9gSHcli9zUl?usp=share_link).
 ### [With GNN ](https://colab.research.google.com/drive/1kllD1luRDxY01sxEcItL8d8n20CGbO02?usp=share_link)
 
-### To access full report, [Click here]()
+### To access full report, [Click here](https://github.com/pathu007/Stoke-based-Representation-Learning-with-GANs/blob/main/Final%20Report%20-%20Stroke-Based%20Representation%20Learning.pdf)
 
 ### References:
 [1] Cheng, S. (2021) SSR-GNNs: Stroke-Based Sketch Representation with Graph Neural
