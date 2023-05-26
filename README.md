@@ -1,4 +1,4 @@
-# Stoke-based-Representation-Learning-with-GANs
+# Stoke-based-Representation-Learning-with-GNNs
 
 ### Abstract:
 Human visual system has evolved with lots of complexity and robustness. As
